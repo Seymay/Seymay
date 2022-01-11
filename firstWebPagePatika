@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ŞEYMA YAVUZ</title>
+</head>
+<body>
+    <h1>ŞEYMA YAVUZ</h1>
+    <h3>Hakkımda</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non ratione aspernatur aperiam reprehenderit illo,
+         dicta pariatur qui temporibus vitae fugit, ab dolores! Ut facilis aliquid ad officiis ratione 
+         facere quaerat! </p>
+
+        <h2>Sevdiğim Diziler</h2>
+        
+        <h4>Lorem ipsum dolor sit amet.</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet.</p>
+</body>
+</html>
